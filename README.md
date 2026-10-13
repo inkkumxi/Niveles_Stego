@@ -177,5 +177,3 @@ Se recomienda avanzar en orden: fácil, medio y difícil. Cada nivel enseña una
 - Nivel fácil: `strings`.
 - Nivel medio: `exiftool` y `base64`.
 - Nivel difícil: `binwalk`, `unzip`, `gunzip` y `fcrackzip`.
-
-Buena suerte, y que no te hagan rickroll.
